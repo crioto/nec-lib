@@ -1,4 +1,4 @@
-module github.com/savageking-io/nec-lib/conf
+module github.com/savageking-io/nec-lib
 
 go 1.23.4
 
